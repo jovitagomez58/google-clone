@@ -1,0 +1,44 @@
+.header-top{
+    padding:8px;
+    display: flex;
+    justify-content:flex-end;
+    align-content: center;
+    font: 13px;
+}
+.top-bar__column{
+    padding:10px
+}
+.Google-logo{
+    display: block;
+    text-align: center;
+    width:100%;
+    margin:0 auto;
+    padding-top:150px;
+}
+
+.search-bar{
+    margin:30px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-line{
+    border-radius: 30px;
+    background-color: white;
+    outline: none;
+    width:561px;
+    height:44px;
+}
+.search-bar-element_1{
+    position: relative;
+    right:550px;
+    top:12px;
+    opacity:60%;
+}
+.search-bar-element_2
+{
+    position:relative;
+    right:50px;
+    top:12px;
+    opacity:70%;
+}
